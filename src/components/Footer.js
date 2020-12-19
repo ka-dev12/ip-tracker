@@ -1,5 +1,3 @@
-import React from "react";
-
 const Footer = () => (
 	<div
 		className="text-center pt-3 px-1"

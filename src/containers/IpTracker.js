@@ -1,4 +1,4 @@
-import React, { useCallback, useEffect, useRef, useState } from "react";
+import { useCallback, useEffect, useRef, useState } from "react";
 import Header from "../components/Header";
 import Layout from "../components/Layout";
 import Maps from "../components/Maps";

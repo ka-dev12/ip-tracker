@@ -1,5 +1,3 @@
-import React from "react";
-
 const SearchBar = ({ ipSubmit, error = null, inputRef, isLoading }) => {
 	return (
 		<form onSubmit={ipSubmit} className="mx-auto" style={{ maxWidth: 700 }}>

@@ -1,5 +1,3 @@
-import React from "react";
-
 const className = "mb-2";
 
 const IpInfo = ({ ipInfo = null }) => {
